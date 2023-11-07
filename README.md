@@ -1,5 +1,4 @@
-
-<p> Шлях моудля <b></b>\modules\logger </b></p>
+ Шлях моудля \modules\logger <br>
 <p>параметри модуля \config\params.php</p>
 <p>Дамп сховища Logger.sql \</p>
 
