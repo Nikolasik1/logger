@@ -1,3 +1,15 @@
+
+Шлях моудля \modules\logger 
+параметри модуля \config\params.php
+Дамп сховища Logger.sql \
+
+
+url: 
+Тип логування по всім типам /web/logger/logger/log-to-all
+Тип логування по замовчуванню /web/logger/logger/log
+Тип логування за вибраним типом /web/logger/logger/log-to?type=file 
+('file', 'database', 'email')
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
